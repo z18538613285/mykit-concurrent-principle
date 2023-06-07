@@ -23,6 +23,11 @@
         <module>mykit-concurrent-chapter18</module>
         <module>mykit-concurrent-chapter19</module>
         <module>mykit-concurrent-chapter20</module>
+        <module>self-learning-concurrent</module>
+        <module>mykit-ratelimiter-test</module>
+        <module>websocket-demo</module>
+        <module>nginx-demo</module>
+        <module>design-demo</module>
     </modules>
 
 
